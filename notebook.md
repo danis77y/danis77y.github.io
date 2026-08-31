@@ -1,23 +1,73 @@
 ## Table of Contents
 
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-
   - [Headings](#headings)
-
   - [Text Formatting](#text-formatting)
 
- Add some space and then copy and paste all of the following to the end of your notebook to have the style guide and reference:
 
 
 
 
 
 
+## Table of Contents
+- [Vocab](#vocab)
+- [Code Examples](#code-examples)
+  - [Print Statements](#print-statements)
+- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+
+ 
+
+ 
+
+## Vocab
+<details>
+  <summary>algorithm</summary>
+    Step-by-step instructions. 
+  
+    Example: The steps to making cookies and a method we use for long math problems are both examples of algorithms.
+</details>
+
+<details>
+  <summary>sequencing</summary>
+    The order things happen in.
+
+    Example: Brushing your teeth might consist of these steps: Put toothpaste on the toothbrush. Use the toothbrush to clean your teeth.
+</details>
+
+<summary>selection</summary>
+The point where decisions are made in an algorithm
+
+Example: Input “How old are you?” age ← USER INPUT IF age > 16 THEN OUTPUT "You are old enough to drive a car" ELSE
+OUTPUT "Come back when you are older!"
+
+
+
+<summary>iteration</summary>
+Iterating in loops is to systematically move through each item in a set of data. Executing code for each item is an iteration of the code. Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.
+
+Example: Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.
 
 
 
 
+ 
 
+## Code Examples
+ 
+  ### Print Statements
+  ```java
+  public class Hello {
+      public static void main(String[] args) {
+          System.out.println("Hello World!");
+      }
+  }
+  ```
+  **System** accesses a Java class that's built into the language
+  
+  **out** is short for "output".
+  
+  **println** is short for "print line".
 
 
 

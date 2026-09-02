@@ -29,9 +29,8 @@
 </details>
 
 <details>
-  <summary>sequencing</summary>
-    The order things happen in.
-
+  <summary>Java</summary>
+   A programming language, different from javascrips.
     Example: Brushing your teeth might consist of these steps: Put toothpaste on the toothbrush. Use the toothbrush to clean your teeth.
 </details>
 
@@ -48,10 +47,30 @@ Iterating in loops is to systematically move through each item in a set of data.
 
 Example: Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.
 
+object oriented programming	
+example: Object-oriented programming is a way of writing code where you group related data and actions into reusable "objects," kind of like organizing tools into labeled boxes.
 
 
 
- 
+<summary>procedural languages</summary>summary>	
+example:Procedural Languages focus on procedures (functions) that operate on data in a linear top-down sequence.
+
+
+Java class	
+ Example:In Java, a class is like a blueprint that defines the structure and behavior (data and actions) of objects you can create from it.
+
+
+
+Java Method	
+example:A method in Java is a block of code inside a class that performs a specific task when it's called.
+
+
+console
+example:The area of a computer that notes from a program can be printed to. Kind of like a notebook.	
+On Skill Struck (python, javascript, and java) this is the area that your code is printed to
+
+
+
 
 ## Code Examples
  

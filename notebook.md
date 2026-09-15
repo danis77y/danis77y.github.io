@@ -1,16 +1,4 @@
 ## Table of Contents
-
-- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-  - [Headings](#headings)
-  - [Text Formatting](#text-formatting)
-
-
-
-
-
-
-
-## Table of Contents
 - [Vocab](#vocab)
 - [Code Examples](#code-examples)
   - [Print Statements](#print-statements)

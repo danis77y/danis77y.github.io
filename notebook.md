@@ -6,56 +6,92 @@
 
  
 
- 
-
 ## Vocab
-<details>
-  <summary>algorithm</summary>
-    Step-by-step instructions. 
-  
-    Example: The steps to making cookies and a method we use for long math problems are both examples of algorithms.
 </details>
 
 <details>
-  <summary>Java</summary>
-   A programming language, different from javascrips.
-    Example: Brushing your teeth might consist of these steps: Put toothpaste on the toothbrush. Use the toothbrush to clean your teeth.
-</details>
-
 <summary>selection</summary>
 The point where decisions are made in an algorithm
 
-Example: Input “How old are you?” age ← USER INPUT IF age > 16 THEN OUTPUT "You are old enough to drive a car" ELSE
-OUTPUT "Come back when you are older!"
+Example: Input “How old are you?” age ← USER INPUT IF age > 16 THEN OUTPUT "You are old enough to drive a car" ELSE OUTPUT "Come back when you are older!"
+</details>
 
-
-
+<details>
 <summary>iteration</summary>
-Iterating in loops is to systematically move through each item in a set of data. Executing code for each item is an iteration of the code. Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.
+The process of repeating a sequence of steps
 
-Example: Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.
+Example: Often, when creating a program, we need to try again and agaim
+</details>
 
-object oriented programming	
-example: Object-oriented programming is a way of writing code where you group related data and actions into reusable "objects," kind of like organizing tools into labeled boxes.
+<details>
+<summary>Java</summary>
+A programming language. Java and JavaScript are completely different languages.
+
+</details>
+
+<details>
+<summary>object oriented programming</summary>
+Object-oriented programming is a way of writing code where you group related data and actions into reusable "objects," kind of like organizing tools into labeled boxes.
+
+</details>
+
+<details>
+<summary>procedural languages</summary>
+Procedural Languages focus on procedures (functions) that operate on data in a linear top-down sequence.
+
+</details>
+
+<details>
+<summary>Java class</summary>
+In Java, a class is like a blueprint that defines the structure and behavior (data and actions) of objects you can create from it.
+
+</details>
+
+<details>
+<summary>Java Method</summary>
+A method in Java is a block of code inside a class that performs a specific task when it's called.
+
+</details>
+
+<details>
+<summary>console</summary>
+The area of a computer that notes from a program can be printed to. Kind of like a notebook.
+
+Example:On Skill Struck (python, javascript, and java) this is the area that your code is printed to
+
+</details>
+
+
+<details>
+<summary>variables</summary>
+A variable is like a box that holds the information you want
+
+Example: String weather = "sunny"; int age = 4;
+
+</details>
+
+
+<details>
+<summary>strings</summary>
+A string is a set of words or numbers that are surrounded by quotation marks
+Example: "Here is 1 string."
+</details>
+ 
 
 
 
-<summary>procedural languages</summary>summary>	
-example:Procedural Languages focus on procedures (functions) that operate on data in a linear top-down sequence.
-
-
-Java class	
- Example:In Java, a class is like a blueprint that defines the structure and behavior (data and actions) of objects you can create from it.
 
 
 
-Java Method	
-example:A method in Java is a block of code inside a class that performs a specific task when it's called.
 
 
-console
-example:The area of a computer that notes from a program can be printed to. Kind of like a notebook.	
-On Skill Struck (python, javascript, and java) this is the area that your code is printed to
+
+
+
+
+
+
+
 
 
 

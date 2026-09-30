@@ -109,6 +109,13 @@ Represents true or false values. A data type that represents the value of True o
   Example: true, false
 </details>
 
+<details>
+<summary>Concatenation</summary>
+Adding strings together to create longer strings. "Hello my name" + "is" + "Dominique"
+
+Example: print("This is " + "an example of " + "concatenation.")
+# Output: This is an example of concatenation.
+</details>
 
 
 

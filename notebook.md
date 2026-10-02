@@ -117,6 +117,21 @@ Example: print("This is " + "an example of " + "concatenation.")
 # Output: This is an example of concatenation.
 </details>
 
+<details>
+<summary>Type Conversion</summary>
+Type conversion is the process of changing a value from one data type to another, like turning an `int` into a `double` or a `String` into an `int`.
+</details>
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -122,6 +122,42 @@ Example: print("This is " + "an example of " + "concatenation.")
 Type conversion is the process of changing a value from one data type to another, like turning an `int` into a `double` or a `String` into an `int`.
 </details>
 
+<details>
+<summary>Syntax Error</summary>
+The characters were typed in incorrectly (for example, missing a semicolon in the right place)
+</details>
+
+
+<details>
+<summary>Runtime Error</summary>
+When the code is correct, but can run into issues depending on how the program is run. An example of a runtime error is when we try to divide any number by zero.
+</details>
+
+
+<details>
+<summary>Logic Error</summary>
+The code is technically written without mistakes, but the logic doesn't accomplish what it is supposed to. For example, the code is running just fine, but it's not passing the challenge.
+</details>
+
+
+
+<details>
+<summary>String Literal</summary>
+Another word for a string. "Hello" is a string literal.
+
+E.g., "Hello" "How are you"
+</details>
+
+
+<details>
+<summary>Rubber Duck Method</summary>
+The method where programmers talk through their problems out loud and can sometimes find where the issue is.
+</details>
+
+
+
+
+
 
 
 

@@ -1,5 +1,9 @@
 # Welcome to My Portfolio Hello! My name is Dulce 
 ## Projects
-- Project 1: Description
-- Project 2: Description
+- [extension-Project](extension-project.md): Desc
+- Project 2: Desc
+
 ## About Me
+[About me](about.md)
+
+[Notebook](notebook.md)

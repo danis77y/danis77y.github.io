@@ -1,6 +1,6 @@
 # Welcome to My Portfolio Hello! My name is Dulce 
 ## Projects
-- [extension-Project](extension-project.md): Desc
+- [Magic-VS-Strength](magic-vs-strength.md): Desc
 - Project 2: Desc
 
 ## About Me
